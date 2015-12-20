@@ -7,13 +7,13 @@ output:
 ---
 
 
-## Loading and preprocessing the data
+## Loading and preprocessing the data  
 **1. Load the data **
 ```{r}
 activity<-read.csv("activity.csv")
-````
+```
 
-**2. Process/transform the data (if necessary) into a format suitable for your analysis**
+**2. Process/transform the data (if necessary) into a format suitable for your analysis**  
 
 We need to transform the "date" from factor type to date type
 
