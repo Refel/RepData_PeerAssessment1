@@ -9,7 +9,7 @@ output:
 
 ## Loading and preprocessing the data  
 
-**1. Load the data **  
+**1. Load the data**  
 ```{r}
 activity<-read.csv("activity.csv")
 ```
